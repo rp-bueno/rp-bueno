@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Eu me chamo Rafael Portes Bueno, tenho 33 anos e sou de São Paulo/Capital. Sou formado pela FATEC Ourinhos em Segurança da Informação. Gosto muito de tecnologia e tenho contato desde pequeno mas começei criar projetos de Front-end somente depois de me formar na FATEC.
+Eu me chamo Rafael Portes Bueno, tenho 33 anos e sou de São Paulo/Capital. Sou formado pela FATEC Ourinhos em Segurança da Informação. Gosto muito de tecnologia e tenho contato desde pequeno mas comecei criar projetos de Front-end somente depois de me formar na FATEC.
 
 ---
 
